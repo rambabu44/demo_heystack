@@ -1,0 +1,1881 @@
+statusCode	200
+statusMessage	"Success"
+message	""
+data	
+brand	
+id	21
+name	"LG"
+image	"https://cgdigital.com.np/api/images/product_brands//6VwKbF_1658465218-lg.png"
+banner	"https://cgdigital.com.np/api/images/product_brands//5sFqYw_1689163758-Last Banner.jpg"
+status	1
+sort_position	2
+exhange_module	1
+is_deleted	"N"
+created_at	"2018-03-12 15:14:51"
+updated_at	"2023-07-12 17:54:18"
+categories	
+0	
+id	10
+name	"TV & Audio"
+image	"https://cgdigital.com.np/api/images/product_categories//hfTpP4_1689670562-TV.jpg"
+icon	"https://cgdigital.com.np/api/images/product_categories//vAQgGY_1599735437-TV-AND-AUDIO-SYSTEM-ICON.png"
+sort_position	1
+subCategories	
+0	
+id	40
+name	"LED TV"
+image	"https://cgdigital.com.np/api/images/product_sub_categories//kihG1f_1671683638-TCL-Google-banner-1920-x-565-px-001.jpg"
+icon	"https://cgdigital.com.np/api/images/product_sub_categories//2ApjBx_1599800901-TV.png"
+sort_position	1
+subCategoryTypes	
+0	
+id	13
+name	"OLED TV"
+image	null
+sort_position	1
+icon	null
+1	
+id	15
+name	"UHD 4K LED TV"
+image	null
+sort_position	3
+icon	null
+2	
+id	16
+name	"Smart LED TV"
+image	null
+sort_position	4
+icon	null
+3	
+id	17
+name	"Normal LED TV"
+image	null
+sort_position	5
+icon	null
+1	
+id	38
+name	"Audio System"
+image	"https://cgdigital.com.np/api/images/product_sub_categories//9MEwiG_1575606184-LGAudioSystem.jpg"
+icon	"https://cgdigital.com.np/api/images/product_sub_categories//yBNS1r_1599800932-AUDIO-SYSTEM-01.png"
+sort_position	2
+subCategoryTypes	
+0	
+id	20
+name	"Home Audio"
+image	null
+sort_position	4
+icon	null
+1	
+id	19
+name	"Sound Bar"
+image	null
+sort_position	5
+icon	null
+1	
+id	5
+name	"Home Appliances"
+image	"https://cgdigital.com.np/api/images/product_categories//0rAEPo_1627039591-CG-850-x-320-px.jpg"
+icon	"https://cgdigital.com.np/api/images/product_categories//EMuhCp_1599799190-HOME-APPLIANCES-ICON.png"
+sort_position	2
+subCategories	
+0	
+id	11
+name	"Air Conditioner"
+image	"https://cgdigital.com.np/api/images/product_sub_categories//Kf58PR_1575619432-CGAC.jpg"
+icon	"https://cgdigital.com.np/api/images/product_sub_categories//KJIWIe_1599800996-AC.png"
+sort_position	1
+subCategoryTypes	
+0	
+id	12
+name	"Wall Mount Split Type AC"
+image	null
+sort_position	1
+icon	null
+1	
+id	10
+name	"Vacuum Cleaner"
+image	"https://cgdigital.com.np/api/images/product_sub_categories//nH0GZ4_1575610715-CGVC.jpg"
+icon	"https://cgdigital.com.np/api/images/product_sub_categories//dOAmgK_1599801017-VACUUM-CLEANER.png"
+sort_position	2
+subCategoryTypes	
+0	
+id	24
+name	"Bagless Type"
+image	null
+sort_position	1
+icon	null
+2	
+id	9
+name	"Washing Machine"
+image	"https://cgdigital.com.np/api/images/product_sub_categories//0AxbBI_1689240542-Last Banner.jpg"
+icon	"https://cgdigital.com.np/api/images/product_sub_categories//pOPXSA_1599801042-WASHING-MACHINE.png"
+sort_position	3
+subCategoryTypes	
+0	
+id	7
+name	"Front Loading Washing Machine"
+image	null
+sort_position	2
+icon	null
+1	
+id	6
+name	"Top Loading Washing Machine"
+image	null
+sort_position	3
+icon	null
+2	
+id	5
+name	"Twin Tub Washing Machine"
+image	null
+sort_position	4
+icon	null
+3	
+id	7
+name	"Washer Dryer"
+image	"https://cgdigital.com.np/api/images/product_sub_categories//MM22QO_1575619536-HAbanner.jpg"
+icon	"https://cgdigital.com.np/api/images/product_sub_categories//YYUoLl_1599801060-WASH-DRYER.png"
+sort_position	4
+subCategoryTypes	[]
+4	
+id	5
+name	"Dish Washer"
+image	"https://cgdigital.com.np/api/images/product_sub_categories//8HFizw_1575619714-HAbanner.jpg"
+icon	"https://cgdigital.com.np/api/images/product_sub_categories//FmOhba_1599801165-DISH-WASHER.png"
+sort_position	7
+subCategoryTypes	[]
+2	
+id	2
+name	"Kitchen Appliances"
+image	"https://cgdigital.com.np/api/images/product_categories//8fhSY8_1575604889-KitchenAppliances.jpg"
+icon	"https://cgdigital.com.np/api/images/product_categories//ePIYVl_1599799110-KITCHEN-APPLIANCES-ICON.png"
+sort_position	3
+subCategories	
+0	
+id	57
+name	"Refrigerator"
+image	"https://cgdigital.com.np/api/images/product_sub_categories//vUGj5L_1575605717-KitchenAppliances.jpg"
+icon	"https://cgdigital.com.np/api/images/product_sub_categories//AhmTtW_1676484300-Ref.png"
+sort_position	1
+subCategoryTypes	
+0	
+id	58
+name	"Side By Side Refrigerator"
+image	null
+sort_position	2
+icon	null
+1	
+id	56
+name	"Double Door Refrigerator"
+image	null
+sort_position	3
+icon	null
+2	
+id	55
+name	"Single Door Refrigerator"
+image	null
+sort_position	4
+icon	null
+1	
+id	45
+name	"Microwave Oven"
+image	"https://cgdigital.com.np/api/images/product_sub_categories//ULYGPP_1575610812-CGMWO.jpg"
+icon	"https://cgdigital.com.np/api/images/product_sub_categories//TLRoHb_1676529182-Micro-Oven.png"
+sort_position	2
+subCategoryTypes	
+0	
+id	35
+name	"Convection"
+image	null
+sort_position	1
+icon	null
+1	
+id	34
+name	"Grill"
+image	null
+sort_position	2
+icon	null
+2	
+id	33
+name	"Solo"
+image	null
+sort_position	3
+icon	null
+3	
+id	8
+name	"Purification Products"
+image	"https://cgdigital.com.np/api/images/product_categories//gl63wa_1575604949-purificationproductsbanner.jpg"
+icon	"https://cgdigital.com.np/api/images/product_categories//WciNdY_1599800767-PURIFICATION-PRODUCTS-ICON.png"
+sort_position	4
+subCategories	
+0	
+id	31
+name	"Air Purifier"
+image	"https://cgdigital.com.np/api/images/product_sub_categories//wkCNBj_1674800335-Kent-1920-x-556-px.jpg"
+icon	"https://cgdigital.com.np/api/images/product_sub_categories//AVkYjL_1599801433-AIR-PURIFIER.png"
+sort_position	2
+subCategoryTypes	[]
+4	
+id	1
+name	"Commercial Products"
+image	"https://cgdigital.com.np/api/images/product_categories//2B91hR_1575605052-CommercialProducts.jpg"
+icon	null
+sort_position	7
+subCategories	[]
+products	
+0	
+id	2967
+name	"400 W Sound Bar"
+product_code	"1090005158"
+model_number	"SC9S"
+is_featured	0
+price	236290
+discount_price	203190
+discount_percent	14
+ratings	null
+quantity	1
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/tU5s1t_1690801119-SC9S.jpg"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/tU5s1t_1690801119-SC9S.jpg"
+brand	"LG"
+free	null
+new	0
+emi_price	11288
+loyalty_point	1016
+1	
+id	2966
+name	"570 W Sound Bar"
+product_code	"1090005157"
+model_number	"S90QY"
+is_featured	0
+price	131290
+discount_price	112790
+discount_percent	14
+ratings	null
+quantity	1
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/RjSLZI_1690800262-S90QY.jpg"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/RjSLZI_1690800262-S90QY.jpg"
+brand	"LG"
+free	null
+new	0
+emi_price	6266
+loyalty_point	564
+2	
+id	2944
+name	"480 CADR [ M³/H ] Air Purifier"
+product_code	"1090005204"
+model_number	"AS60GHWG0"
+is_featured	0
+price	59990
+discount_price	52790
+discount_percent	12
+ratings	null
+quantity	63
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/U5Lwtf_1689762721-AS60GHWG0.jpg"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/C6k0jW_1689762078-AS60GHWG0-II.jpg"
+brand	"LG"
+free	null
+new	0
+emi_price	2933
+loyalty_point	264
+3	
+id	2933
+name	"10 Kg Fully Automatic Top Load Washing Machine"
+product_code	"1090005144"
+model_number	"T2310VSAB"
+is_featured	0
+price	73390
+discount_price	61890
+discount_percent	16
+ratings	null
+quantity	26
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/qPbeLk_1686907709-T2310VSAB.jpg"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/qPbeLk_1686907709-T2310VSAB.jpg"
+brand	"LG"
+free	null
+new	0
+emi_price	3438
+loyalty_point	309
+4	
+id	2731
+name	"2 Ton Non-Inverter Air Conditioner"
+product_code	"1090004919"
+model_number	"S4H24TZCAA.DXWAEXP"
+is_featured	0
+price	162590
+discount_price	139690
+discount_percent	14
+ratings	null
+quantity	0
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/L4vJLi_1685264504-S4H12TZCAA.DXWAEXP.jpg"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/L4vJLi_1685264504-S4H12TZCAA.DXWAEXP.jpg"
+brand	"LG"
+free	
+id	2832
+name	"Free Installation"
+image	"https://cgdigital.com.np/api/images/products/JhBBmB_1679903756-FreeInstallation.webp"
+price	"NPR 4,000"
+new	0
+emi_price	7761
+loyalty_point	698
+5	
+id	2730
+name	"1.5 Ton Non-Inverter Air Conditioner"
+product_code	"1090004918"
+model_number	"S4H18TZCAA.DXWAEXP"
+is_featured	0
+price	125090
+discount_price	107490
+discount_percent	14
+ratings	null
+quantity	0
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/kPzfLM_1685875131-S4H12TZCAA.DXWAEXP-Org.jpg"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/kPzfLM_1685875131-S4H12TZCAA.DXWAEXP-Org.jpg"
+brand	"LG"
+free	
+id	2832
+name	"Free Installation"
+image	"https://cgdigital.com.np/api/images/products/JhBBmB_1679903756-FreeInstallation.webp"
+price	"NPR 4,000"
+new	0
+emi_price	5972
+loyalty_point	537
+6	
+id	2729
+name	"1 Ton Non-Inverter Air Conditioner"
+product_code	"1090004917"
+model_number	"S4H12TZCAA.DXWAEXP"
+is_featured	0
+price	90090
+discount_price	77490
+discount_percent	14
+ratings	null
+quantity	40
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/UmC6UP_1685942042-S4H12TZCAA.DXWAEXP.jpg"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/UmC6UP_1685942042-S4H12TZCAA.DXWAEXP.jpg"
+brand	"LG"
+free	
+id	2832
+name	"Free Installation"
+image	"https://cgdigital.com.np/api/images/products/JhBBmB_1679903756-FreeInstallation.webp"
+price	"NPR 4,000"
+new	0
+emi_price	4305
+loyalty_point	387
+7	
+id	2728
+name	"14 Plate Setting Dish Washer"
+product_code	"1090004937"
+model_number	"DFB227HM"
+is_featured	1
+price	235990
+discount_price	172490
+discount_percent	27
+ratings	null
+quantity	9
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/v7P3hi_1677050343-Self Made - Picture.png"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/v7P3hi_1677050343-Self Made - Picture.png"
+brand	"LG"
+free	null
+new	0
+emi_price	9583
+loyalty_point	862
+8	
+id	2675
+name	'43" WebOS 4K UHD Smart LED TV'
+product_code	"503000212"
+model_number	"43UQ7550PSF"
+is_featured	1
+price	90190
+discount_price	72890
+discount_percent	19
+ratings	null
+quantity	420
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/5I3Z9B_1673434462-I.png"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/4Mtyp1_1673434462-II.png"
+brand	"LG"
+free	null
+new	0
+emi_price	4049
+loyalty_point	364
+9	
+id	2655
+name	'55" WebOS Smart TV'
+product_code	"503000213"
+model_number	"55UQ8050PSB"
+is_featured	1
+price	137590
+discount_price	110590
+discount_percent	20
+ratings	null
+quantity	571
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/PJcFyV_1676957720-55UQ8050PSB _II.png"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/6DZW1C_1673176482-2.png"
+brand	"LG"
+free	null
+new	0
+emi_price	6144
+loyalty_point	553
+10	
+id	2576
+name	'65" UHD 4K Smart LED TV'
+product_code	"503000214"
+model_number	"65UQ8050PSB"
+is_featured	1
+price	199290
+discount_price	155890
+discount_percent	22
+ratings	null
+quantity	329
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/C6RBR8_1669616045-75UQ8050PSB.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/NUDE9d_1669616045-75UQ8050PSB-1.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	8661
+loyalty_point	779
+11	
+id	2564
+name	'43" Smart LED TV'
+product_code	"1090004759"
+model_number	"43LM5750"
+is_featured	1
+price	78990
+discount_price	65990
+discount_percent	16
+ratings	null
+quantity	45
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/B0psl0_1669278072-43LM5750.jpg"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/YUJ8dh_1669278072-43LM5750-1.jpg"
+brand	"LG"
+free	null
+new	0
+emi_price	3666
+loyalty_point	330
+12	
+id	2503
+name	"Refrigerator 190 Ltr"
+product_code	"1090004800"
+model_number	"GLD199OERC.AERQ"
+is_featured	0
+price	43690
+discount_price	34290
+discount_percent	22
+ratings	null
+quantity	18
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/EwuZRx_1676979835-GLD199OERC.AERQ.png"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/AkcmmO_1676979835-GLD199OERC.AERQ-II.png"
+brand	"LG"
+free	null
+new	0
+emi_price	1905
+loyalty_point	171
+13	
+id	2494
+name	"8 Kg Front Load Washing Machine"
+product_code	"1090004683"
+model_number	"FV1408S4B.ABLP"
+is_featured	1
+price	113690
+discount_price	95690
+discount_percent	16
+ratings	null
+quantity	54
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/6ExJUv_1669698885-2.png"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/WGfZMA_1669698885-6.png"
+brand	"LG"
+free	null
+new	0
+emi_price	5316
+loyalty_point	478
+14	
+id	2474
+name	'65" OLED 4K TV'
+product_code	"1090004771"
+model_number	"OLED65C2"
+is_featured	1
+price	512490
+discount_price	440790
+discount_percent	14
+ratings	null
+quantity	17
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/1TFiBM_1667041461-OLED65C2.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/J8h09A_1667041461-OLED65C2-1.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	24488
+loyalty_point	2204
+15	
+id	2463
+name	'75" UHD 4K Smart LED TV'
+product_code	"1090004772"
+model_number	"75UQ8050"
+is_featured	1
+price	356290
+discount_price	278490
+discount_percent	22
+ratings	null
+quantity	36
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/zdRA53_1688973039-75UQ8050.jpg"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/6cX1QY_1667029982-75UQ8050PSB-1.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	15472
+loyalty_point	1392
+16	
+id	2461
+name	'65" UHD 4K Smart LED TV'
+product_code	"503000211"
+model_number	"65UQ7550PSF"
+is_featured	1
+price	192990
+discount_price	150490
+discount_percent	22
+ratings	null
+quantity	295
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/cBi9L2_1667028541-55UQ7550PSF.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/9i30HI_1667028541-55UQ7550PSF-1.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	8361
+loyalty_point	752
+17	
+id	2459
+name	'55" UHD 4K Smart LED TV'
+product_code	"503000210"
+model_number	"55UQ7550PSF"
+is_featured	1
+price	134990
+discount_price	103990
+discount_percent	23
+ratings	null
+quantity	165
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/cTdtqO_1667028282-55UQ7550PSF.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/asF0lG_1667028282-55UQ7550PSF-1.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	5777
+loyalty_point	520
+18	
+id	2457
+name	'50" UHD 4K Smart LED TV'
+product_code	"503000209"
+model_number	"50UQ7550PSF"
+is_featured	1
+price	119790
+discount_price	95790
+discount_percent	20
+ratings	null
+quantity	159
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/eRHyeh_1688971905-50UQ7550PSF.jpg"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/UaTpEe_1667027333-55UQ7550PSF-1.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	5322
+loyalty_point	479
+19	
+id	2445
+name	"13 Kg Front Load Washing Machine"
+product_code	"1090004643"
+model_number	"FV1413S2BA"
+is_featured	1
+price	207990
+discount_price	151890
+discount_percent	27
+ratings	null
+quantity	176
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/t5wYEQ_1676879777-FV1413S2BA.jpg"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/38stnA_1676879777-FV1413S2BA-II.jpg"
+brand	"LG"
+free	null
+new	0
+emi_price	8438
+loyalty_point	759
+20	
+id	2389
+name	"617 Ltrs. Side By Side Refrigerator"
+product_code	"1090004531"
+model_number	"GSX6172NS"
+is_featured	1
+price	431790
+discount_price	371390
+discount_percent	14
+ratings	null
+quantity	46
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/RTYyuJ_1666172706-GSX6172NS.png"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/RTYyuJ_1666172706-GSX6172NS.png"
+brand	"LG"
+free	null
+new	0
+emi_price	20633
+loyalty_point	1857
+21	
+id	2388
+name	"617 Ltrs. Side By Side Refrigerator"
+product_code	"1090004530"
+model_number	"GSX6172MC"
+is_featured	1
+price	455890
+discount_price	392090
+discount_percent	14
+ratings	null
+quantity	13
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/9ohu6g_1666172120-GSX6172MC.png"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/9ohu6g_1666172120-GSX6172MC.png"
+brand	"LG"
+free	null
+new	0
+emi_price	21783
+loyalty_point	1960
+22	
+id	2387
+name	"647 Ltrs. Side By Side Refrigerator"
+product_code	"1090004529"
+model_number	"GSB6472PZ"
+is_featured	1
+price	280090
+discount_price	240890
+discount_percent	14
+ratings	null
+quantity	28
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/FQbyBV_1666167336-GSB6472PZ.png"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/FQbyBV_1666167336-GSB6472PZ.png"
+brand	"LG"
+free	null
+new	0
+emi_price	13383
+loyalty_point	1204
+23	
+id	2386
+name	"643 Ltrs. Side By Side Refrigerator"
+product_code	"1090004527"
+model_number	"GSB6432WB"
+is_featured	1
+price	270990
+discount_price	232990
+discount_percent	14
+ratings	null
+quantity	9
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/LZ4Qd1_1666166750-GSB6432WB.png"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/LZ4Qd1_1666166750-GSB6432WB.png"
+brand	"LG"
+free	null
+new	0
+emi_price	12944
+loyalty_point	1165
+24	
+id	2374
+name	"7 Kg Front Load Washing Machine"
+product_code	"1090004685"
+model_number	"FV1207S4P"
+is_featured	1
+price	94890
+discount_price	79990
+discount_percent	16
+ratings	null
+quantity	199
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/TtXHPs_1666008214-1.png"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/xVB4ao_1666008214-2.png"
+brand	"LG"
+free	null
+new	0
+emi_price	4444
+loyalty_point	400
+25	
+id	2373
+name	"7 Kg Front Load Washing Machine  "
+product_code	"1090004684"
+model_number	"FV1207S4W"
+is_featured	1
+price	91090
+discount_price	76890
+discount_percent	16
+ratings	null
+quantity	99
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/n06884_1666002913-1.png"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/9njGTG_1666002913-2.png"
+brand	"LG"
+free	null
+new	0
+emi_price	4272
+loyalty_point	384
+26	
+id	2372
+name	"674 Ltrs. Side By Side Refrigerator"
+product_code	"1090004528"
+model_number	"GSL6172PZ"
+is_featured	1
+price	311290
+discount_price	267790
+discount_percent	14
+ratings	null
+quantity	109
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/zKfiRI_1665921152-1.png"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/2Qtx8N_1665921152-2.png"
+brand	"LG"
+free	null
+new	0
+emi_price	14877
+loyalty_point	1339
+27	
+id	2192
+name	"Sound Bar S65Q"
+product_code	"1090004556"
+model_number	"S65Q"
+is_featured	1
+price	70690
+discount_price	60790
+discount_percent	14
+ratings	null
+quantity	46
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/44u4Re_1657275844-1.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/MUN7Vd_1657275844-2.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	3377
+loyalty_point	304
+28	
+id	2167
+name	"Washer & Dryer 15.0/8.0 KG - AI DD Motor Series"
+product_code	"1090004212"
+model_number	"F2515RTGV"
+is_featured	1
+price	244490
+discount_price	178490
+discount_percent	27
+ratings	null
+quantity	15
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/KAk7RP_1654776323-large01.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/TMsxIx_1654776323-large02.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	9916
+loyalty_point	892
+29	
+id	2160
+name	'32" Smart LED TV'
+product_code	"1090004418"
+model_number	"32LQ636B"
+is_featured	1
+price	55990
+discount_price	36490
+discount_percent	35
+ratings	null
+quantity	41
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/5S2PaA_1653812723-1.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/SfOzFd_1653812723-2.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	2027
+loyalty_point	182
+30	
+id	2153
+name	"Vacuum Cleaner 2000W"
+product_code	"1090004382"
+model_number	"VC5420NHT"
+is_featured	0
+price	31090
+discount_price	26190
+discount_percent	16
+ratings	null
+quantity	366
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/2AVGv1_1652171615-large01.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/kskvHu_1652171615-large02.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	1455
+loyalty_point	131
+31	
+id	2152
+name	"2000 W Vacuum Cleaner"
+product_code	"1090004381"
+model_number	"V5420NNTR"
+is_featured	0
+price	28190
+discount_price	23690
+discount_percent	16
+ratings	null
+quantity	564
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/95kzG8_1652168099-DZ-01.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/AUKi2A_1652168100-DZ-02.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	1316
+loyalty_point	118
+32	
+id	2151
+name	"2000 W Vacuum Cleaner"
+product_code	"1090004380"
+model_number	"V5420NNTS"
+is_featured	0
+price	28190
+discount_price	23690
+discount_percent	16
+ratings	null
+quantity	495
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/QsGRcp_1652167178-Z01.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/X9Amfi_1652167178-Z02.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	1316
+loyalty_point	118
+33	
+id	1987
+name	'50" UHD 4K Smart LED TV'
+product_code	"1090004253"
+model_number	"50UP7550"
+is_featured	1
+price	119790
+discount_price	103390
+discount_percent	14
+ratings	null
+quantity	5
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/u4dW1P_1643689819-1.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/flulI2_1643689819-2.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	5744
+loyalty_point	517
+34	
+id	1965
+name	"Cassette AC Indoor Unit 1.5 Ton"
+product_code	"1090000622"
+model_number	"ATNW18GPLS1"
+is_featured	1
+price	97890
+discount_price	74290
+discount_percent	24
+ratings	null
+quantity	11
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/bCOkex_1641377198-ATNW18GPLS1-Cassette-Z08.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/lUXF0D_1641377198-ATNW18GPLS1-Cassette-Z01.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	4127
+loyalty_point	371
+35	
+id	1881
+name	'55" OLED 4K TV'
+product_code	"1090004080"
+model_number	"OLED55C1"
+is_featured	1
+price	321490
+discount_price	276490
+discount_percent	14
+ratings	null
+quantity	10
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/alBjqE_1638702103-OLED55C1.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/qgpMSi_1638702103-OLED55C1-001.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	15361
+loyalty_point	1382
+36	
+id	1850
+name	'55" 4K Smart UHD LED TV'
+product_code	"1090004076"
+model_number	"55UP7750"
+is_featured	1
+price	136290
+discount_price	117790
+discount_percent	14
+ratings	null
+quantity	2
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/dwBUkf_1635852831-65UP7750.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/HOlsd8_1635852831-65UP7750-001.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	6544
+loyalty_point	589
+37	
+id	1815
+name	"Washing Machine 9.0 KG - AI DD Motor Series"
+product_code	"1090004061"
+model_number	"FV1409S3W"
+is_featured	1
+price	114890
+discount_price	96790
+discount_percent	16
+ratings	null
+quantity	300
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/5LNNKA_1633599144-FV1409S3W.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/35Sw3C_1633599145-FV1409S3W-001.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	5377
+loyalty_point	484
+38	
+id	1799
+name	"Washing Machine 8.0 KG  - AI DD Motor Series"
+product_code	"1090003488"
+model_number	"FV1408S4VN"
+is_featured	1
+price	112390
+discount_price	94690
+discount_percent	16
+ratings	4
+quantity	8
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/VcBdKe_1630316932-FV1408S4VN.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/VcBdKe_1630316932-FV1408S4VN.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	5261
+loyalty_point	473
+39	
+id	1798
+name	"Washing Machine 8.0 KG  - AI DD Motor Series"
+product_code	"1090003489"
+model_number	"FV1408S4WN"
+is_featured	1
+price	106190
+discount_price	89490
+discount_percent	16
+ratings	5
+quantity	331
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/iUUzAo_1630316389-FV1408S4WN.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/iUUzAo_1630316389-FV1408S4WN.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	4972
+loyalty_point	447
+40	
+id	1770
+name	"Refrigerator 260 Ltrs"
+product_code	"1090004020"
+model_number	"GLK272SPTL.ARGQ"
+is_featured	0
+price	66490
+discount_price	57190
+discount_percent	14
+ratings	5
+quantity	78
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/uR6gdN_1625571528-GLK272SPTL.ARGQ.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/ieZSiR_1625571528-GLK272SPTL.ARGQ-001.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	3177
+loyalty_point	286
+41	
+id	1768
+name	"X BOOM Speaker"
+product_code	"1090003739"
+model_number	"ON9"
+is_featured	1
+price	72490
+discount_price	62390
+discount_percent	14
+ratings	null
+quantity	40
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/fN7sVi_1623228470-ON9-001.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/4OGf1K_1623228470-ON9-002.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	3466
+loyalty_point	312
+42	
+id	1766
+name	"Refrigerator 260 Ltrs"
+product_code	"1090003759"
+model_number	"GLB292RVBN.APZQ"
+is_featured	0
+price	74590
+discount_price	64090
+discount_percent	14
+ratings	null
+quantity	191
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/gBGNLQ_1623138136-GLB292RVBN.APZQ.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/tIeiLm_1623138136-GLB292RVBN-APZQ-001.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	3561
+loyalty_point	320
+43	
+id	1765
+name	"Refrigerator 594 Ltr"
+product_code	"1090003490"
+model_number	"GFQ4919MT"
+is_featured	1
+price	379290
+discount_price	326290
+discount_percent	14
+ratings	null
+quantity	11
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/3DMgNl_1623066181-GF-Q4919MT.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/LDI1an_1623066181-GF-Q4919MT-001.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	18127
+loyalty_point	1631
+44	
+id	1763
+name	"SN4 2.1Ch Sound Bar"
+product_code	"1090003736"
+model_number	"SN4"
+is_featured	1
+price	38790
+discount_price	33390
+discount_percent	14
+ratings	null
+quantity	52
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/U8r6wn_1622968225-SN4-01.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/mq9B7S_1622968225-SN4-02.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	1855
+loyalty_point	167
+45	
+id	1644
+name	"2 Ton Dual-Inverter Air Conditioner"
+product_code	"1090003508"
+model_number	"S3-W24K23VB"
+is_featured	1
+price	191890
+discount_price	164990
+discount_percent	14
+ratings	null
+quantity	144
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/jkZt56_1614593844-image.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/jkZt56_1614593844-image.webp"
+brand	"LG"
+free	
+id	2832
+name	"Free Installation"
+image	"https://cgdigital.com.np/api/images/products/JhBBmB_1679903756-FreeInstallation.webp"
+price	"NPR 4,000"
+new	0
+emi_price	9166
+loyalty_point	825
+46	
+id	1641
+name	"Semi Automatic Washing Machine 9.0 KG"
+product_code	"1090003580"
+model_number	"TT101R3S"
+is_featured	0
+price	38290
+discount_price	32390
+discount_percent	15
+ratings	null
+quantity	26
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/oXXFam_1614323426-TT101R3S.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/7Lb8f4_1614323426-TT101R3S-01.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	1799
+loyalty_point	162
+47	
+id	1640
+name	"Refrigerator 437 Ltr"
+product_code	"1090003582"
+model_number	"GLM433PZI"
+is_featured	1
+price	112090
+discount_price	96490
+discount_percent	14
+ratings	null
+quantity	64
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/nG7hmw_1614319599-GL-M433PZI.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/JxUZnm_1614319599-GL-M433PZI-01.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	5361
+loyalty_point	482
+48	
+id	1638
+name	"Refrigerator 437 Ltr"
+product_code	"1090003581"
+model_number	"GLB433PZI"
+is_featured	1
+price	114890
+discount_price	98790
+discount_percent	14
+ratings	null
+quantity	95
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/Fh84Qr_1614235510-GL-B433PZI.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/Fh84Qr_1614235510-GL-B433PZI.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	5488
+loyalty_point	494
+49	
+id	1637
+name	"308 Ltr. Double Door Refrigerator "
+product_code	"1090003579"
+model_number	"GLM332RPZI.APZQ"
+is_featured	1
+price	80390
+discount_price	69190
+discount_percent	14
+ratings	null
+quantity	61
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/6DtkGD_1614232557-GL-M332RPZI.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/8IkmSb_1614232558-GL-M332RPZI-OPEN.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	3844
+loyalty_point	346
+50	
+id	1616
+name	"471 Ltr Double Door Refrigerator"
+product_code	"1090003506"
+model_number	"GLM503PZI.DPZQ"
+is_featured	1
+price	116490
+discount_price	100190
+discount_percent	14
+ratings	null
+quantity	26
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/hfThYE_1689665179-GLM503PZI.DPZQ.jpg"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/EAJjgd_1689664767-GLM503PZI.DPZQ-II.jpg"
+brand	"LG"
+free	null
+new	0
+emi_price	5566
+loyalty_point	501
+51	
+id	1613
+name	"9 Kg Top Load Washing Machine"
+product_code	"1090003493"
+model_number	"T2109VSAB"
+is_featured	0
+price	63290
+discount_price	53490
+discount_percent	15
+ratings	null
+quantity	95
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/j0yTJd_1611556224-1.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/d46pzm_1611556224-2.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	2972
+loyalty_point	267
+52	
+id	1612
+name	"8 Kg Top Load Washing Machine"
+product_code	"1090003492"
+model_number	"T2108VSPM2"
+is_featured	0
+price	54390
+discount_price	45890
+discount_percent	16
+ratings	null
+quantity	55
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/Yqgihy_1611555041-1.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/SftNkL_1611555041-2.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	2549
+loyalty_point	229
+53	
+id	1611
+name	"471 Ltr. Double Door Refrigerator "
+product_code	"1090003505"
+model_number	"GLB503PZI.DPZQ"
+is_featured	1
+price	124290
+discount_price	106890
+discount_percent	14
+ratings	null
+quantity	57
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/qXgymv_1611484583-GLB503PZ.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/qXgymv_1611484583-GLB503PZ.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	5938
+loyalty_point	534
+54	
+id	1610
+name	"360 Ltr. Double Door Refrigerator"
+product_code	"1090003507"
+model_number	"GLM413RLCI.DPZQ"
+is_featured	0
+price	105690
+discount_price	90890
+discount_percent	14
+ratings	null
+quantity	5
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/FMpomA_1611482012-GLM413RLCI.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/FMpomA_1611482012-GLM413RLCI.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	5049
+loyalty_point	454
+55	
+id	1577
+name	"6.5 Kg Twin Tub Washing Machine"
+product_code	"1090002737"
+model_number	"P7256R3F"
+is_featured	0
+price	35390
+discount_price	29890
+discount_percent	16
+ratings	null
+quantity	19
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/zPr4d0_1609390753-P7256R3F.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/zPr4d0_1609390753-P7256R3F.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	1661
+loyalty_point	149
+56	
+id	1558
+name	"SN5Y 2.1Ch Sound Bar"
+product_code	"1090002337"
+model_number	"SN5Y"
+is_featured	1
+price	46890
+discount_price	40390
+discount_percent	14
+ratings	null
+quantity	51
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/NTMxdZ_1608282209-SN5Y_Soundbars_DZ01.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/5eyk8E_1608282209-SN5Y_Soundbars_DZ02.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	2244
+loyalty_point	202
+57	
+id	1557
+name	'55" 4K Smart UHD LED TV'
+product_code	"1090003276"
+model_number	"55UN7300"
+is_featured	1
+price	134990
+discount_price	115590
+discount_percent	14
+ratings	null
+quantity	7
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/Tu8sPl_1608276264-zoom-01.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/WBrf7h_1608276264-zoom-02.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	6422
+loyalty_point	578
+58	
+id	1554
+name	"Washer & Dryer 8.0/6.0 KG - AI DD Motor Series"
+product_code	"1090003298"
+model_number	"FV1408H4V"
+is_featured	1
+price	139690
+discount_price	116990
+discount_percent	16
+ratings	null
+quantity	14
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/B8HyKG_1608099956-FV1408H4V.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/B8HyKG_1608099956-FV1408H4V.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	6499
+loyalty_point	585
+59	
+id	1497
+name	"Refrigerator 310 Ltrs."
+product_code	"1090003317"
+model_number	"GLB322RVBN.ASCQ"
+is_featured	0
+price	79590
+discount_price	68490
+discount_percent	14
+ratings	null
+quantity	58
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/yIDVMx_1604917909-1.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/GWUJLy_1604917909-2.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	3805
+loyalty_point	342
+60	
+id	1496
+name	"Refrigerator 260 Ltr"
+product_code	"1090003316"
+model_number	"GLB292RVBN.ABCQ"
+is_featured	0
+price	77490
+discount_price	66590
+discount_percent	14
+ratings	null
+quantity	148
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/68qOG7_1604914542-1.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/GY6GMv_1604914542-2.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	3699
+loyalty_point	333
+61	
+id	1495
+name	"8 Kg Top Load Washing Machine"
+product_code	"1090003295"
+model_number	"T2108VSAB"
+is_featured	0
+price	60790
+discount_price	51290
+discount_percent	16
+ratings	null
+quantity	26
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/6i3SXw_1604816413-1.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/hU55xn_1604816417-2.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	2849
+loyalty_point	256
+62	
+id	1433
+name	"Washer & Dryer 19.0/12.0 KG"
+product_code	"1090002921"
+model_number	"F2719RVTV"
+is_featured	1
+price	276290
+discount_price	201690
+discount_percent	27
+ratings	null
+quantity	49
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/pkd3Yp_1597209053-1.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/LAGccJ_1597209053-2.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	11205
+loyalty_point	1008
+63	
+id	1431
+name	"285 Ltr. Double Door Refrigerator"
+product_code	"1090003142"
+model_number	"GLM312RLML.APZQ"
+is_featured	0
+price	76690
+discount_price	65990
+discount_percent	14
+ratings	null
+quantity	59
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/veLU5g_1597140876-1.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/6DvDT4_1597141827-2.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	3666
+loyalty_point	330
+64	
+id	1423
+name	"10 Kg Washer & 7Kg Dryer - AI DD Motor Series"
+product_code	"1090003160"
+model_number	"FV1450H2K"
+is_featured	1
+price	193190
+discount_price	161990
+discount_percent	16
+ratings	null
+quantity	56
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/q4Ff4B_1596967505-1.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/xtVg0D_1596967505-2.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	8999
+loyalty_point	810
+65	
+id	1422
+name	"10.5 Kg Front Load Washing Machine"
+product_code	"1090003146"
+model_number	"FV1450S2K"
+is_featured	1
+price	175590
+discount_price	147890
+discount_percent	16
+ratings	null
+quantity	51
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/ss2Ynv_1596956587-11.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/8YHmph_1596956588-1.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	8216
+loyalty_point	739
+66	
+id	1420
+name	"Washing Machine 9.0 KG - AI DD Motor Series"
+product_code	"1090003161"
+model_number	"FV1409S3V"
+is_featured	1
+price	124690
+discount_price	105090
+discount_percent	16
+ratings	null
+quantity	416
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/eomJR6_1596798170-Z-01.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/tgXg57_1596798170-Z-02.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	5838
+loyalty_point	525
+67	
+id	1214
+name	"594 Ltrs. Side By Side Refrigerator "
+product_code	"1090002711"
+model_number	"GFB4539PZ"
+is_featured	0
+price	344590
+discount_price	296390
+discount_percent	14
+ratings	null
+quantity	14
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/KIX5Eh_1590743479-GFB4539PZ.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/KIX5Eh_1590743479-GFB4539PZ.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	16466
+loyalty_point	1482
+68	
+id	1076
+name	"Microwave Oven 32 Ltrs."
+product_code	"1090002703"
+model_number	"MJEN326TL"
+is_featured	1
+price	46890
+discount_price	40290
+discount_percent	14
+ratings	null
+quantity	47
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/yPKHeC_1581317244-D01.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/vQV0rF_1581317245-D06.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	2238
+loyalty_point	201
+69	
+id	1058
+name	'32" Normal LED TV'
+product_code	"503000103"
+model_number	"32LM550B"
+is_featured	1
+price	33890
+discount_price	28990
+discount_percent	14
+ratings	null
+quantity	10
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/v9g4KN_1578891712-32LM550BPTA_Full_HD_TV_D_01.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/K82jpr_1578891712-32LM550BPTA_Full_HD_TV_D_02.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	1611
+loyalty_point	145
+70	
+id	916
+name	"1.5 Ton Air Conditioner"
+product_code	"1090002230"
+model_number	"S3-W18KL3VA"
+is_featured	1
+price	150590
+discount_price	129390
+discount_percent	14
+ratings	null
+quantity	0
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/oYcKoN_1566793286-S3W18KL3VA.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/OEY16z_1566793286-1.webp"
+brand	"LG"
+free	
+id	2832
+name	"Free Installation"
+image	"https://cgdigital.com.np/api/images/products/JhBBmB_1679903756-FreeInstallation.webp"
+price	"NPR 4,000"
+new	0
+emi_price	7188
+loyalty_point	647
+71	
+id	832
+name	"14 Plate Setting Dish Washer"
+product_code	"1090000459"
+model_number	"DFB425FP"
+is_featured	0
+price	199590
+discount_price	145890
+discount_percent	27
+ratings	null
+quantity	61
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/gbCHIQ_1548393771-DFB425FP.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/kmBxHn_1548393771-Z2.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	8105
+loyalty_point	729
+72	
+id	831
+name	"14 Plate Setting Dish Washer"
+product_code	"1090000458"
+model_number	"DFB325HS"
+is_featured	0
+price	215690
+discount_price	157690
+discount_percent	27
+ratings	null
+quantity	53
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/wsdmpn_1548393000-DFB325HS.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/GqpATu_1548393000-large02.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	8761
+loyalty_point	788
+73	
+id	804
+name	"XBoom Blast+ Speaker System"
+product_code	"1090000423"
+model_number	"LK72B"
+is_featured	1
+price	11590
+discount_price	9990
+discount_percent	14
+ratings	null
+quantity	312
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/ASGDE6_1544436086-LK72B.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/2NetsD_1544436086-large02.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	555
+loyalty_point	50
+74	
+id	612
+name	"7 Kg Top Load Washing Machine"
+product_code	"1090000669"
+model_number	"T2107VSAGP"
+is_featured	1
+price	52690
+discount_price	43390
+discount_percent	18
+ratings	null
+quantity	31
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/8Qe33p_1538023293-T2107VSAGP.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/hndnfI_1538023294-T2107VSAGP-1.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	2411
+loyalty_point	217
+75	
+id	611
+name	"Microwave Oven 36 Ltrs."
+product_code	"1090001407"
+model_number	"MS3636GIS"
+is_featured	1
+price	33790
+discount_price	29090
+discount_percent	14
+ratings	null
+quantity	50
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/L2Gf4x_1630304674-MS3636GIS.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/L2Gf4x_1630304674-MS3636GIS.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	1616
+loyalty_point	145
+76	
+id	338
+name	"Refrigerator 190 Ltr."
+product_code	"1090001618"
+model_number	"GLB205ARGB.ARGQ"
+is_featured	1
+price	40290
+discount_price	32390
+discount_percent	20
+ratings	null
+quantity	1
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/WKLJzL_1529818681-GLB205ARGB.ARGQ.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/WKLJzL_1529818681-GLB205ARGB.ARGQ.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	1799
+loyalty_point	162
+77	
+id	281
+name	"Refrigerator 258 Ltrs"
+product_code	"1090000508"
+model_number	"GLK292SLTL.APZQ"
+is_featured	0
+price	59290
+discount_price	50990
+discount_percent	14
+ratings	null
+quantity	156
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/GbTyCX_1527654105-GLK292SLTL.APZQ.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/GbTyCX_1527654105-GLK292SLTL.APZQ.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	2833
+loyalty_point	255
+78	
+id	192
+name	"Microwave Oven 20 Ltrs."
+product_code	"1090000481"
+model_number	"MS2043DB"
+is_featured	0
+price	15690
+discount_price	13490
+discount_percent	14
+ratings	null
+quantity	98
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/WCQZNk_1525337164-MS2043DB.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/WCQZNk_1525337164-MS2043DB.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	749
+loyalty_point	67
+79	
+id	190
+name	"Microwave Oven 23 Ltrs."
+product_code	"1090000475"
+model_number	"MH6336GIB"
+is_featured	1
+price	27390
+discount_price	23590
+discount_percent	14
+ratings	null
+quantity	50
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/gFakyc_1525245390-MH6336GIB.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/gFakyc_1525245390-MH6336GIB.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	1311
+loyalty_point	118
+80	
+id	188
+name	"Microwave Oven 21 Ltrs"
+product_code	"1090000466"
+model_number	"MC2146BL"
+is_featured	0
+price	27890
+discount_price	23990
+discount_percent	14
+ratings	null
+quantity	96
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/llXNVC_1525239967-MC2146BL.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/llXNVC_1525239967-MC2146BL.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	1333
+loyalty_point	120
+81	
+id	187
+name	"Microwave Oven 28 Ltr."
+product_code	"1090000469"
+model_number	"MC2846SL"
+is_featured	0
+price	32690
+discount_price	28190
+discount_percent	14
+ratings	null
+quantity	19
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/ygrqLs_1525238489-MC2846SL.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/ygrqLs_1525238489-MC2846SL.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	1566
+loyalty_point	141
+82	
+id	186
+name	"Microwave Oven 28 Ltr."
+product_code	"1090000470"
+model_number	"MC2886BRUM"
+is_featured	1
+price	36090
+discount_price	31090
+discount_percent	14
+ratings	null
+quantity	87
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/YoeAfq_1525234404-MC2886BRUM.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/YoeAfq_1525234404-MC2886BRUM.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	1727
+loyalty_point	155
+83	
+id	185
+name	"Microwave Oven 32 Ltr."
+product_code	"1090000472"
+model_number	"MC3286BRUM"
+is_featured	0
+price	39490
+discount_price	33990
+discount_percent	14
+ratings	null
+quantity	175
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/Xk9fvQ_1525172216-MC3286BRUM.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/Xk9fvQ_1525172216-MC3286BRUM.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	1888
+loyalty_point	170
+84	
+id	77
+name	"Refrigerator 190 Ltrs"
+product_code	"1090000539"
+model_number	"GLD201ALLB.APZQ"
+is_featured	0
+price	42190
+discount_price	32890
+discount_percent	22
+ratings	null
+quantity	112
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/CK4ZiK_1522061568-GLD201ALLB.APZQ.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/CK4ZiK_1522061568-GLD201ALLB.APZQ.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	1827
+loyalty_point	164
+85	
+id	69
+name	"190 Ltr. Single Door Refrigerator"
+product_code	"1090000532"
+model_number	"GLB201ALLB.APZQ"
+is_featured	0
+price	37290
+discount_price	30990
+discount_percent	17
+ratings	5
+quantity	159
+availability	1
+featured_image	"https://cgdigital.com.np/api/images/products/abeTGw_1521972257-GLB201ALLB.APZQ.webp"
+alt_featured_image	"https://cgdigital.com.np/api/images/products/abeTGw_1521972257-GLB201ALLB.APZQ.webp"
+brand	"LG"
+free	null
+new	0
+emi_price	1722
+loyalty_point	155
+price_range	
+min	11590
+max	512490
